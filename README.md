@@ -32,6 +32,3 @@ This will open the Jupyter interface in your browser. From there, open:
 notebook_1.ipynb
 ```
 
-## 📘 Contents
-
-* `notebook_1.ipynb`: Introductory or core notebook for this project.
